@@ -1,4 +1,4 @@
-# Prestressed-Concrete-Beam-Design
+# Composite-Concrete-Beam-Design
 Example problem statement and design methodology shown below, relative to the Composite Concrete Beam Design Project Example pdf file. The Composite Concrete Beam Design Mathcad file can be altered with different design parameters to represent another composite concrete beam and loading scenario if desired.
 
 Problem Statement
